@@ -1,0 +1,24 @@
+{
+  "name": "mod9challenge",
+  "version": "1.0.0",
+  "description": "Homework for module 9 of the UTA bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spoogh/Mod9Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spoogh/Mod9Challenge/issues"
+  },
+  "homepage": "https://github.com/Spoogh/Mod9Challenge#readme",
+  "dependencies": {
+    
+    "inquirer": "^8.2.4"
+  }
+ 
+}
